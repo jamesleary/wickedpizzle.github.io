@@ -9,8 +9,6 @@ h2 {
 	line-height: 100px;
 }
 
-p {
-	font-family: 'Cabin', Helvetica, Arial, sans-serif;
-	font-size: 15px;
-	line-height: 25px;
+.content-TLG{
+	display:inline;
 }
