@@ -16,5 +16,8 @@ body{
  h3{   border-bottom: 3px solid #999;
 }
 
-
+#container {
+    width: 800px;
+    margin: 40px auto 60px;
+}
  
