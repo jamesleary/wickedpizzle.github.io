@@ -10,7 +10,8 @@ h2 {
 
 body{ 
  font-variant: small-caps;
- background:<img style="user-select: none; cursor: zoom-in;" src="http://netdna.webdesignerdepot.com/uploads/2015/07/infinite-css-scrolling-background.jpg" width="365" height="252">;
+ background:#87CEFA;
+ color:orange;
 }
 
  h3{   border-bottom: 3px solid #999;
