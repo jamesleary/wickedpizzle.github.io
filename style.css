@@ -24,6 +24,6 @@ body{
     margin: 40px auto 60px;
 }
  
-#jppic{
- float:right
-}
+#grad{
+background: linear-gradient(blue, orange);
+ >
